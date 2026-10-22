@@ -1,0 +1,13 @@
+{
+  "name": "skycast-weather-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Şehirler için güncel hava durumu ve beş günlük tahmin uygulaması",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
